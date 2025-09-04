@@ -8,6 +8,33 @@
 .build/
 .buildlog/
 .history
+
+# Firebase Configuration Files
+google-services.json
+GoogleService-Info.plist
+firebase_options.dart
+.env
+*.jks
+key.properties
+
+# IDE specific files
+.idea/
+.vscode/
+*.iml
+*.iws
+.settings/
+
+# Flutter/Dart specific
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
 .svn/
 .swiftpm/
 migrate_working_dir/
